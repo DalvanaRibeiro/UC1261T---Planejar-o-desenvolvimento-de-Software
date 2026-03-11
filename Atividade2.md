@@ -1,6 +1,6 @@
-# Atividade - Canva
+# Atividade 2
 
-Este repositório contém o acesso para a atividade desenvolvida no Canva.
+
 
 ## 🔗 Link da Atividade
 Acesse a atividade pelo link abaixo:
