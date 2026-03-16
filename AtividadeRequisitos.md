@@ -11,27 +11,27 @@ Um exemplo de documento está aqui: https://drive.google.com/file/d/1jTMY3tbU5we
 
  ## 🚀 Arthur e Gusta Gonsalves
  
-## Aplicativo de Entrega de Comida
+### Aplicativo de Entrega de Comida
 
  ## 🚀 Lucas, Cecília e Gustavo Rodrigues (vulgo arthur na cabeça da professora)
  
-## Aplicativo de Finanças Pessoais
+### Aplicativo de Finanças Pessoais
 
  ## 🚀 Eduarda, Rafael e Gustavo Lima
  
-## Plataforma de Streaming de Vídeos
+### Plataforma de Streaming de Vídeos
 
  ## 🚀 Érica
  
- ## Sistema de Controle de Estoque
+ ### Sistema de Controle de Estoque
 
   ## 🚀 Gustavo Witt, Richard e Greg
 
-##  Sistema de Biblioteca Online
+###  Sistema de Biblioteca Online
 
   #  🚀 Maria
   
- ## Sistema de Agendamento Médico
+ ### Sistema de Agendamento Médico
 
 
   Bom trabalho 😉.
