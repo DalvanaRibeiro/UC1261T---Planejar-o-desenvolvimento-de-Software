@@ -5,31 +5,31 @@ Tarefa: Vocês devem pesquisar sobre a área da aplicação que pegaram e defini
 
 Um exemplo de documento está aqui: https://drive.google.com/file/d/1jTMY3tbU5wedZglhkg943vMD-ZgBLv7B/view
 
-## Vitória e Lívia
+##  🚀 Vitória e Lívia
 
  Loja Virtual (E-commerce)
 
- ## Arthur e Gusta Gonsalves
+ ## 🚀 Arthur e Gusta Gonsalves
  
  Aplicativo de Entrega de Comida
 
- ## Lucas, Cecília e Gustavo Rodrigues (vulgo arthur na cabeça da professora)
+ ## 🚀 Lucas, Cecília e Gustavo Rodrigues (vulgo arthur na cabeça da professora)
  
  Aplicativo de Finanças Pessoais
 
- ## Eduarda, Rafael e Gustavo Lima
+ ## 🚀 Eduarda, Rafael e Gustavo Lima
  
  Plataforma de Streaming de Vídeos
 
- ## Érica
+ ## 🚀 Érica
  
   Sistema de Controle de Estoque
 
-  ## Gustavo Witt, Richard e Greg
+  ## 🚀 Gustavo Witt, Richard e Greg
 
   Sistema de Biblioteca Online
 
-  # Maria
+  #  🚀 Maria
   
   Sistema de Agendamento Médico
 
