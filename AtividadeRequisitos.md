@@ -1,4 +1,4 @@
-# ✌️😎 E ai queridos alunos, segue os temas e a equipe responsável:
+# ✌️😎 E ai queridos alunos, seguem os temas com as equipes responsáveis:
 -----
 
 Tarefa: Vocês devem pesquisar sobre a área da aplicação que pegaram e definir os: Requisitos Funcionais (o que precisa ter), Requisitos Não Funcionais(o que se deseja ter) e Requistos de Negócio (como funciona).
