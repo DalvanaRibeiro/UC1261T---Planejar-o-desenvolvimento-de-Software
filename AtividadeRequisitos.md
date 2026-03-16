@@ -7,7 +7,7 @@ Um exemplo de documento está aqui: https://drive.google.com/file/d/1jTMY3tbU5we
 
 ##  🚀 Vitória e Lívia
 
-## Loja Virtual (E-commerce)
+### Loja Virtual (E-commerce)
 
  ## 🚀 Arthur e Gusta Gonsalves
  
