@@ -1,7 +1,6 @@
-# 📦 UI Assets Library (Figma)
+# 📦 UI Assets Library (Recursos para o Figma)
 
-This document defines a standardized set of **UI assets (component names)** to be used when designing interfaces in Figma.  
-It helps maintain **consistency, scalability, and clarity** across projects.
+
 
 ---
 
